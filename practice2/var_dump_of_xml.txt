@@ -1,0 +1,1571 @@
+object(SimpleXMLElement)#16 (2) {
+  ["@attributes"]=>
+  array(1) {
+    ["version"]=>
+    string(3) "2.0"
+  }
+  ["channel"]=>
+  object(SimpleXMLElement)#17 (8) {
+    ["title"]=>
+    string(17) "Engadget Japanese"
+    ["link"]=>
+    string(28) "http://japanese.engadget.com"
+    ["description"]=>
+    string(17) "Engadget Japanese"
+    ["image"]=>
+    object(SimpleXMLElement)#18 (3) {
+      ["url"]=>
+      string(47) "http://japanese.engadget.com/media/feedlogo.gif"
+      ["title"]=>
+      string(17) "Engadget Japanese"
+      ["link"]=>
+      string(28) "http://japanese.engadget.com"
+    }
+    ["language"]=>
+    string(5) "en-us"
+    ["copyright"]=>
+    string(97) "Copyright 2011 Weblogs, Inc. The contents of this feed are available for non-commercial use only."
+    ["generator"]=>
+    string(35) "Blogsmith http://www.blogsmith.com/"
+    ["item"]=>
+    array(40) {
+      [0]=>
+      object(SimpleXMLElement)#19 (7) {
+        ["title"]=>
+        object(SimpleXMLElement)#59 (0) {
+        }
+        ["link"]=>
+        string(52) "http://japanese.engadget.com/2011/06/06/ps-vita-ngp/"
+        ["guid"]=>
+        string(52) "http://japanese.engadget.com/2011/06/06/ps-vita-ngp/"
+        ["comments"]=>
+        string(61) "http://japanese.engadget.com/2011/06/06/ps-vita-ngp/#comments"
+        ["description"]=>
+        object(SimpleXMLElement)#60 (0) {
+        }
+        ["category"]=>
+        array(12) {
+          [0]=>
+          string(2) "e3"
+          [1]=>
+          string(7) "e3 2011"
+          [2]=>
+          string(6) "E32011"
+          [3]=>
+          string(3) "ngp"
+          [4]=>
+          string(16) "playstation vita"
+          [5]=>
+          string(15) "PlaystationVita"
+          [6]=>
+          string(7) "ps vita"
+          [7]=>
+          string(3) "psp"
+          [8]=>
+          string(6) "PsVita"
+          [9]=>
+          string(3) "sce"
+          [10]=>
+          string(4) "sony"
+          [11]=>
+          string(4) "vita"
+        }
+        ["pubDate"]=>
+        string(29) "Mon, 06 Jun 2011 06:01:00 EST"
+      }
+      [1]=>
+      object(SimpleXMLElement)#20 (7) {
+        ["title"]=>
+        object(SimpleXMLElement)#60 (0) {
+        }
+        ["link"]=>
+        string(44) "http://japanese.engadget.com/2011/06/06/ios/"
+        ["guid"]=>
+        string(44) "http://japanese.engadget.com/2011/06/06/ios/"
+        ["comments"]=>
+        string(53) "http://japanese.engadget.com/2011/06/06/ios/#comments"
+        ["description"]=>
+        object(SimpleXMLElement)#59 (0) {
+        }
+        ["category"]=>
+        array(9) {
+          [0]=>
+          string(5) "apple"
+          [1]=>
+          string(3) "ios"
+          [2]=>
+          string(5) "ios 5"
+          [3]=>
+          string(4) "Ios5"
+          [4]=>
+          string(9) "jailbreak"
+          [5]=>
+          string(12) "notification"
+          [6]=>
+          string(11) "peter hajas"
+          [7]=>
+          string(10) "PeterHajas"
+          [8]=>
+          string(8) "software"
+        }
+        ["pubDate"]=>
+        string(29) "Mon, 06 Jun 2011 05:28:00 EST"
+      }
+      [2]=>
+      object(SimpleXMLElement)#21 (7) {
+        ["title"]=>
+        object(SimpleXMLElement)#59 (0) {
+        }
+        ["link"]=>
+        string(47) "http://japanese.engadget.com/2011/06/06/nhk-cg/"
+        ["guid"]=>
+        string(47) "http://japanese.engadget.com/2011/06/06/nhk-cg/"
+        ["comments"]=>
+        string(56) "http://japanese.engadget.com/2011/06/06/nhk-cg/#comments"
+        ["description"]=>
+        object(SimpleXMLElement)#60 (0) {
+        }
+        ["category"]=>
+        array(7) {
+          [0]=>
+          string(2) "cg"
+          [1]=>
+          string(3) "nhk"
+          [2]=>
+          string(9) "nhk giken"
+          [3]=>
+          string(8) "NhkGiken"
+          [4]=>
+          string(5) "shuwa"
+          [5]=>
+          string(13) "sign language"
+          [6]=>
+          string(12) "SignLanguage"
+        }
+        ["pubDate"]=>
+        string(29) "Mon, 06 Jun 2011 03:15:00 EST"
+      }
+      [3]=>
+      object(SimpleXMLElement)#22 (7) {
+        ["title"]=>
+        object(SimpleXMLElement)#60 (0) {
+        }
+        ["link"]=>
+        string(50) "http://japanese.engadget.com/2011/06/06/pool-robo/"
+        ["guid"]=>
+        string(50) "http://japanese.engadget.com/2011/06/06/pool-robo/"
+        ["comments"]=>
+        string(59) "http://japanese.engadget.com/2011/06/06/pool-robo/#comments"
+        ["description"]=>
+        object(SimpleXMLElement)#59 (0) {
+        }
+        ["category"]=>
+        array(8) {
+          [0]=>
+          string(9) "billiards"
+          [1]=>
+          string(7) "germany"
+          [2]=>
+          string(4) "icra"
+          [3]=>
+          string(4) "pool"
+          [4]=>
+          string(5) "robot"
+          [5]=>
+          string(32) "Technische Universit’Ct M’[nchen"
+          [6]=>
+          string(30) "TechnischeUniversit’CtM’[nchen"
+          [7]=>
+          string(3) "tum"
+        }
+        ["pubDate"]=>
+        string(29) "Mon, 06 Jun 2011 01:15:00 EST"
+      }
+      [4]=>
+      object(SimpleXMLElement)#23 (7) {
+        ["title"]=>
+        object(SimpleXMLElement)#59 (0) {
+        }
+        ["link"]=>
+        string(48) "http://japanese.engadget.com/2011/06/06/windows/"
+        ["guid"]=>
+        string(48) "http://japanese.engadget.com/2011/06/06/windows/"
+        ["comments"]=>
+        string(57) "http://japanese.engadget.com/2011/06/06/windows/#comments"
+        ["description"]=>
+        object(SimpleXMLElement)#60 (0) {
+        }
+        ["category"]=>
+        array(5) {
+          [0]=>
+          string(5) "apple"
+          [1]=>
+          string(7) "germany"
+          [2]=>
+          string(9) "microsoft"
+          [3]=>
+          string(14) "wav collective"
+          [4]=>
+          string(13) "WavCollective"
+        }
+        ["pubDate"]=>
+        string(29) "Mon, 06 Jun 2011 00:30:00 EST"
+      }
+      [5]=>
+      object(SimpleXMLElement)#24 (7) {
+        ["title"]=>
+        object(SimpleXMLElement)#60 (0) {
+        }
+        ["link"]=>
+        string(47) "http://japanese.engadget.com/2011/06/06/vaio-z/"
+        ["guid"]=>
+        string(47) "http://japanese.engadget.com/2011/06/06/vaio-z/"
+        ["comments"]=>
+        string(56) "http://japanese.engadget.com/2011/06/06/vaio-z/#comments"
+        ["description"]=>
+        object(SimpleXMLElement)#59 (0) {
+        }
+        ["category"]=>
+        array(5) {
+          [0]=>
+          string(4) "sony"
+          [1]=>
+          string(6) "vaio z"
+          [2]=>
+          string(8) "vaio z21"
+          [3]=>
+          string(5) "VaioZ"
+          [4]=>
+          string(7) "VaioZ21"
+        }
+        ["pubDate"]=>
+        string(29) "Mon, 06 Jun 2011 00:05:00 EST"
+      }
+      [6]=>
+      object(SimpleXMLElement)#25 (7) {
+        ["title"]=>
+        object(SimpleXMLElement)#59 (0) {
+        }
+        ["link"]=>
+        string(81) "http://japanese.engadget.com/2011/06/05/wwdc-2011-7-2-icloud-ios-5-mac-os-x-lion/"
+        ["guid"]=>
+        string(81) "http://japanese.engadget.com/2011/06/05/wwdc-2011-7-2-icloud-ios-5-mac-os-x-lion/"
+        ["comments"]=>
+        string(90) "http://japanese.engadget.com/2011/06/05/wwdc-2011-7-2-icloud-ios-5-mac-os-x-lion/#comments"
+        ["description"]=>
+        object(SimpleXMLElement)#60 (0) {
+        }
+        ["category"]=>
+        array(17) {
+          [0]=>
+          string(5) "apple"
+          [1]=>
+          string(5) "cloud"
+          [2]=>
+          string(6) "icloud"
+          [3]=>
+          string(3) "ios"
+          [4]=>
+          string(5) "ios 5"
+          [5]=>
+          string(4) "Ios5"
+          [6]=>
+          string(4) "lion"
+          [7]=>
+          string(8) "mac os x"
+          [8]=>
+          string(13) "mac os x lion"
+          [9]=>
+          string(6) "MacOsX"
+          [10]=>
+          string(10) "MacOsXLion"
+          [11]=>
+          string(8) "software"
+          [12]=>
+          string(10) "steve jobs"
+          [13]=>
+          string(9) "SteveJobs"
+          [14]=>
+          string(4) "wwdc"
+          [15]=>
+          string(9) "wwdc 2011"
+          [16]=>
+          string(8) "Wwdc2011"
+        }
+        ["pubDate"]=>
+        string(29) "Sun, 05 Jun 2011 20:58:00 EST"
+      }
+      [7]=>
+      object(SimpleXMLElement)#26 (7) {
+        ["title"]=>
+        object(SimpleXMLElement)#60 (0) {
+        }
+        ["link"]=>
+        string(54) "http://japanese.engadget.com/2011/06/05/1-wormhole-km/"
+        ["guid"]=>
+        string(54) "http://japanese.engadget.com/2011/06/05/1-wormhole-km/"
+        ["comments"]=>
+        string(63) "http://japanese.engadget.com/2011/06/05/1-wormhole-km/#comments"
+        ["description"]=>
+        object(SimpleXMLElement)#59 (0) {
+        }
+        ["category"]=>
+        array(13) {
+          [0]=>
+          string(13) "computex 2011"
+          [1]=>
+          string(12) "Computex2011"
+          [2]=>
+          string(9) "j5 create"
+          [3]=>
+          string(8) "J5Create"
+          [4]=>
+          string(6) "kaijet"
+          [5]=>
+          string(9) "km switch"
+          [6]=>
+          string(8) "KmSwitch"
+          [7]=>
+          string(7) "synergy"
+          [8]=>
+          string(7) "usb 3.0"
+          [9]=>
+          string(7) "usb hub"
+          [10]=>
+          string(6) "Usb3.0"
+          [11]=>
+          string(6) "UsbHub"
+          [12]=>
+          string(8) "wormhole"
+        }
+        ["pubDate"]=>
+        string(29) "Sun, 05 Jun 2011 14:33:00 EST"
+      }
+      [8]=>
+      object(SimpleXMLElement)#27 (7) {
+        ["title"]=>
+        object(SimpleXMLElement)#59 (0) {
+        }
+        ["link"]=>
+        string(72) "http://japanese.engadget.com/2011/06/05/photofast-dock-usb-i-flashdrive/"
+        ["guid"]=>
+        string(72) "http://japanese.engadget.com/2011/06/05/photofast-dock-usb-i-flashdrive/"
+        ["comments"]=>
+        string(81) "http://japanese.engadget.com/2011/06/05/photofast-dock-usb-i-flashdrive/#comments"
+        ["description"]=>
+        object(SimpleXMLElement)#60 (0) {
+        }
+        ["category"]=>
+        array(7) {
+          [0]=>
+          string(5) "apple"
+          [1]=>
+          string(13) "computex 2011"
+          [2]=>
+          string(12) "Computex2011"
+          [3]=>
+          string(14) "dock connector"
+          [4]=>
+          string(13) "DockConnector"
+          [5]=>
+          string(12) "i-flashdrive"
+          [6]=>
+          string(9) "photofast"
+        }
+        ["pubDate"]=>
+        string(29) "Sun, 05 Jun 2011 11:52:00 EST"
+      }
+      [9]=>
+      object(SimpleXMLElement)#28 (7) {
+        ["title"]=>
+        object(SimpleXMLElement)#60 (0) {
+        }
+        ["link"]=>
+        string(44) "http://japanese.engadget.com/2011/06/03/wii/"
+        ["guid"]=>
+        string(44) "http://japanese.engadget.com/2011/06/03/wii/"
+        ["comments"]=>
+        string(53) "http://japanese.engadget.com/2011/06/03/wii/#comments"
+        ["description"]=>
+        object(SimpleXMLElement)#59 (0) {
+        }
+        ["category"]=>
+        array(5) {
+          [0]=>
+          string(6) "nikkei"
+          [1]=>
+          string(8) "nintendo"
+          [2]=>
+          string(12) "project cafe"
+          [3]=>
+          string(11) "ProjectCafe"
+          [4]=>
+          string(3) "wii"
+        }
+        ["pubDate"]=>
+        string(29) "Fri, 03 Jun 2011 07:00:00 EST"
+      }
+      [10]=>
+      object(SimpleXMLElement)#29 (7) {
+        ["title"]=>
+        object(SimpleXMLElement)#59 (0) {
+        }
+        ["link"]=>
+        string(62) "http://japanese.engadget.com/2011/06/03/xp3300-force-blendtec/"
+        ["guid"]=>
+        string(62) "http://japanese.engadget.com/2011/06/03/xp3300-force-blendtec/"
+        ["comments"]=>
+        string(71) "http://japanese.engadget.com/2011/06/03/xp3300-force-blendtec/#comments"
+        ["description"]=>
+        object(SimpleXMLElement)#60 (0) {
+        }
+        ["category"]=>
+        array(8) {
+          [0]=>
+          string(8) "blendtec"
+          [1]=>
+          string(2) "cm"
+          [2]=>
+          string(5) "funny"
+          [3]=>
+          string(5) "sonim"
+          [4]=>
+          string(18) "sonim xp3300 force"
+          [5]=>
+          string(16) "SonimXp3300Force"
+          [6]=>
+          string(13) "will it blend"
+          [7]=>
+          string(11) "WillItBlend"
+        }
+        ["pubDate"]=>
+        string(29) "Fri, 03 Jun 2011 04:37:00 EST"
+      }
+      [11]=>
+      object(SimpleXMLElement)#30 (7) {
+        ["title"]=>
+        object(SimpleXMLElement)#60 (0) {
+        }
+        ["link"]=>
+        string(46) "http://japanese.engadget.com/2011/06/03/ubeam/"
+        ["guid"]=>
+        string(46) "http://japanese.engadget.com/2011/06/03/ubeam/"
+        ["comments"]=>
+        string(55) "http://japanese.engadget.com/2011/06/03/ubeam/#comments"
+        ["description"]=>
+        object(SimpleXMLElement)#59 (0) {
+        }
+        ["category"]=>
+        array(10) {
+          [0]=>
+          string(12) "all things d"
+          [1]=>
+          string(10) "AllThingsD"
+          [2]=>
+          string(2) "d9"
+          [3]=>
+          string(7) "d9 2011"
+          [4]=>
+          string(6) "D92011"
+          [5]=>
+          string(5) "ubeam"
+          [6]=>
+          string(17) "wireless charging"
+          [7]=>
+          string(15) "wireless energy"
+          [8]=>
+          string(16) "WirelessCharging"
+          [9]=>
+          string(14) "WirelessEnergy"
+        }
+        ["pubDate"]=>
+        string(29) "Fri, 03 Jun 2011 03:30:00 EST"
+      }
+      [12]=>
+      object(SimpleXMLElement)#31 (7) {
+        ["title"]=>
+        object(SimpleXMLElement)#59 (0) {
+        }
+        ["link"]=>
+        string(52) "http://japanese.engadget.com/2011/06/03/angry-birds/"
+        ["guid"]=>
+        string(52) "http://japanese.engadget.com/2011/06/03/angry-birds/"
+        ["comments"]=>
+        string(61) "http://japanese.engadget.com/2011/06/03/angry-birds/#comments"
+        ["description"]=>
+        object(SimpleXMLElement)#60 (0) {
+        }
+        ["category"]=>
+        array(7) {
+          [0]=>
+          string(11) "angry birds"
+          [1]=>
+          string(10) "AngryBirds"
+          [2]=>
+          string(3) "diy"
+          [3]=>
+          string(16) "Harmeet Sanghera"
+          [4]=>
+          string(15) "HarmeetSanghera"
+          [5]=>
+          string(22) "university of maryland"
+          [6]=>
+          string(20) "UniversityOfMaryland"
+        }
+        ["pubDate"]=>
+        string(29) "Fri, 03 Jun 2011 01:30:00 EST"
+      }
+      [13]=>
+      object(SimpleXMLElement)#32 (7) {
+        ["title"]=>
+        object(SimpleXMLElement)#60 (0) {
+        }
+        ["link"]=>
+        string(55) "http://japanese.engadget.com/2011/06/03/toshiba-thrive/"
+        ["guid"]=>
+        string(55) "http://japanese.engadget.com/2011/06/03/toshiba-thrive/"
+        ["comments"]=>
+        string(64) "http://japanese.engadget.com/2011/06/03/toshiba-thrive/#comments"
+        ["description"]=>
+        object(SimpleXMLElement)#59 (0) {
+        }
+        ["category"]=>
+        array(7) {
+          [0]=>
+          string(7) "android"
+          [1]=>
+          string(11) "android 3.1"
+          [2]=>
+          string(10) "Android3.1"
+          [3]=>
+          string(6) "thrive"
+          [4]=>
+          string(13) "thrive tablet"
+          [5]=>
+          string(12) "ThriveTablet"
+          [6]=>
+          string(7) "toshiba"
+        }
+        ["pubDate"]=>
+        string(29) "Fri, 03 Jun 2011 00:45:00 EST"
+      }
+      [14]=>
+      object(SimpleXMLElement)#33 (7) {
+        ["title"]=>
+        object(SimpleXMLElement)#59 (0) {
+        }
+        ["link"]=>
+        string(52) "http://japanese.engadget.com/2011/06/02/wwdc-icloud/"
+        ["guid"]=>
+        string(52) "http://japanese.engadget.com/2011/06/02/wwdc-icloud/"
+        ["comments"]=>
+        string(61) "http://japanese.engadget.com/2011/06/02/wwdc-icloud/#comments"
+        ["description"]=>
+        object(SimpleXMLElement)#60 (0) {
+        }
+        ["category"]=>
+        array(8) {
+          [0]=>
+          string(5) "apple"
+          [1]=>
+          string(6) "icloud"
+          [2]=>
+          string(4) "lion"
+          [3]=>
+          string(13) "mac os x lion"
+          [4]=>
+          string(10) "MacOsXLion"
+          [5]=>
+          string(4) "os x"
+          [6]=>
+          string(3) "OsX"
+          [7]=>
+          string(4) "wwdc"
+        }
+        ["pubDate"]=>
+        string(29) "Thu, 02 Jun 2011 21:40:00 EST"
+      }
+      [15]=>
+      object(SimpleXMLElement)#34 (7) {
+        ["title"]=>
+        object(SimpleXMLElement)#60 (0) {
+        }
+        ["link"]=>
+        string(44) "http://japanese.engadget.com/2011/06/02/100/"
+        ["guid"]=>
+        string(44) "http://japanese.engadget.com/2011/06/02/100/"
+        ["comments"]=>
+        string(53) "http://japanese.engadget.com/2011/06/02/100/#comments"
+        ["description"]=>
+        object(SimpleXMLElement)#59 (0) {
+        }
+        ["category"]=>
+        array(9) {
+          [0]=>
+          string(4) "hack"
+          [1]=>
+          string(7) "lulzsec"
+          [2]=>
+          string(3) "psn"
+          [3]=>
+          string(8) "psn hack"
+          [4]=>
+          string(7) "PsnHack"
+          [5]=>
+          string(8) "qriocity"
+          [6]=>
+          string(4) "sony"
+          [7]=>
+          string(13) "sony pictures"
+          [8]=>
+          string(12) "SonyPictures"
+        }
+        ["pubDate"]=>
+        string(29) "Thu, 02 Jun 2011 20:11:00 EST"
+      }
+      [16]=>
+      object(SimpleXMLElement)#35 (6) {
+        ["title"]=>
+        object(SimpleXMLElement)#59 (0) {
+        }
+        ["link"]=>
+        string(49) "http://japanese.engadget.com/2011/06/02/3ds-3d-7/"
+        ["guid"]=>
+        string(49) "http://japanese.engadget.com/2011/06/02/3ds-3d-7/"
+        ["comments"]=>
+        string(58) "http://japanese.engadget.com/2011/06/02/3ds-3d-7/#comments"
+        ["description"]=>
+        object(SimpleXMLElement)#60 (0) {
+        }
+        ["pubDate"]=>
+        string(29) "Thu, 02 Jun 2011 04:16:00 EST"
+      }
+      [17]=>
+      object(SimpleXMLElement)#36 (7) {
+        ["title"]=>
+        object(SimpleXMLElement)#60 (0) {
+        }
+        ["link"]=>
+        string(60) "http://japanese.engadget.com/2011/06/02/playstation-network/"
+        ["guid"]=>
+        string(60) "http://japanese.engadget.com/2011/06/02/playstation-network/"
+        ["comments"]=>
+        string(69) "http://japanese.engadget.com/2011/06/02/playstation-network/#comments"
+        ["description"]=>
+        object(SimpleXMLElement)#59 (0) {
+        }
+        ["category"]=>
+        array(11) {
+          [0]=>
+          string(19) "playstation network"
+          [1]=>
+          string(18) "PlaystationNetwork"
+          [2]=>
+          string(3) "ps3"
+          [3]=>
+          string(3) "psn"
+          [4]=>
+          string(8) "psn hack"
+          [5]=>
+          string(7) "PsnHack"
+          [6]=>
+          string(3) "psp"
+          [7]=>
+          string(8) "qriocity"
+          [8]=>
+          string(3) "sce"
+          [9]=>
+          string(4) "snei"
+          [10]=>
+          string(4) "sony"
+        }
+        ["pubDate"]=>
+        string(29) "Thu, 02 Jun 2011 01:41:00 EST"
+      }
+      [18]=>
+      object(SimpleXMLElement)#37 (7) {
+        ["title"]=>
+        object(SimpleXMLElement)#59 (0) {
+        }
+        ["link"]=>
+        string(52) "http://japanese.engadget.com/2011/06/02/nfc-microsd/"
+        ["guid"]=>
+        string(52) "http://japanese.engadget.com/2011/06/02/nfc-microsd/"
+        ["comments"]=>
+        string(61) "http://japanese.engadget.com/2011/06/02/nfc-microsd/#comments"
+        ["description"]=>
+        object(SimpleXMLElement)#60 (0) {
+        }
+        ["category"]=>
+        array(3) {
+          [0]=>
+          string(7) "microsd"
+          [1]=>
+          string(6) "netcom"
+          [2]=>
+          string(3) "nfc"
+        }
+        ["pubDate"]=>
+        string(29) "Thu, 02 Jun 2011 01:15:00 EST"
+      }
+      [19]=>
+      object(SimpleXMLElement)#38 (7) {
+        ["title"]=>
+        object(SimpleXMLElement)#60 (0) {
+        }
+        ["link"]=>
+        string(50) "http://japanese.engadget.com/2011/06/01/windows-8/"
+        ["guid"]=>
+        string(50) "http://japanese.engadget.com/2011/06/01/windows-8/"
+        ["comments"]=>
+        string(59) "http://japanese.engadget.com/2011/06/01/windows-8/#comments"
+        ["description"]=>
+        object(SimpleXMLElement)#59 (0) {
+        }
+        ["category"]=>
+        array(4) {
+          [0]=>
+          string(8) "computex"
+          [1]=>
+          string(9) "microsoft"
+          [2]=>
+          string(9) "windows 8"
+          [3]=>
+          string(8) "Windows8"
+        }
+        ["pubDate"]=>
+        string(29) "Wed, 01 Jun 2011 23:37:00 EST"
+      }
+      [20]=>
+      object(SimpleXMLElement)#39 (7) {
+        ["title"]=>
+        object(SimpleXMLElement)#59 (0) {
+        }
+        ["link"]=>
+        string(73) "http://japanese.engadget.com/2011/06/01/arm-windows-8-qualcomm-ti-nvidia/"
+        ["guid"]=>
+        string(73) "http://japanese.engadget.com/2011/06/01/arm-windows-8-qualcomm-ti-nvidia/"
+        ["comments"]=>
+        string(82) "http://japanese.engadget.com/2011/06/01/arm-windows-8-qualcomm-ti-nvidia/#comments"
+        ["description"]=>
+        object(SimpleXMLElement)#60 (0) {
+        }
+        ["category"]=>
+        array(16) {
+          [0]=>
+          string(3) "arm"
+          [1]=>
+          string(13) "computex 2011"
+          [2]=>
+          string(12) "Computex2011"
+          [3]=>
+          string(6) "kal-el"
+          [4]=>
+          string(9) "microsoft"
+          [5]=>
+          string(6) "nvidia"
+          [6]=>
+          string(8) "qualcomm"
+          [7]=>
+          string(18) "sci+fi+and+fantasy"
+          [8]=>
+          string(10) "snapdragon"
+          [9]=>
+          string(3) "soc"
+          [10]=>
+          string(5) "tegra"
+          [11]=>
+          string(17) "texas instruments"
+          [12]=>
+          string(16) "TexasInstruments"
+          [13]=>
+          string(7) "windows"
+          [14]=>
+          string(9) "windows 8"
+          [15]=>
+          string(8) "Windows8"
+        }
+        ["pubDate"]=>
+        string(29) "Wed, 01 Jun 2011 23:15:00 EST"
+      }
+      [21]=>
+      object(SimpleXMLElement)#40 (7) {
+        ["title"]=>
+        object(SimpleXMLElement)#60 (0) {
+        }
+        ["link"]=>
+        string(59) "http://japanese.engadget.com/2011/06/01/windows-8-metro-ui/"
+        ["guid"]=>
+        string(59) "http://japanese.engadget.com/2011/06/01/windows-8-metro-ui/"
+        ["comments"]=>
+        string(68) "http://japanese.engadget.com/2011/06/01/windows-8-metro-ui/#comments"
+        ["description"]=>
+        object(SimpleXMLElement)#59 (0) {
+        }
+        ["category"]=>
+        array(9) {
+          [0]=>
+          string(2) "d9"
+          [1]=>
+          string(5) "metro"
+          [2]=>
+          string(9) "microsoft"
+          [3]=>
+          string(8) "software"
+          [4]=>
+          string(15) "steven sinofsky"
+          [5]=>
+          string(14) "StevenSinofsky"
+          [6]=>
+          string(7) "windows"
+          [7]=>
+          string(9) "windows 8"
+          [8]=>
+          string(8) "Windows8"
+        }
+        ["pubDate"]=>
+        string(29) "Wed, 01 Jun 2011 19:31:00 EST"
+      }
+      [22]=>
+      object(SimpleXMLElement)#41 (7) {
+        ["title"]=>
+        object(SimpleXMLElement)#59 (0) {
+        }
+        ["link"]=>
+        string(64) "http://japanese.engadget.com/2011/06/01/android-xoom-2-tracy-xl/"
+        ["guid"]=>
+        string(64) "http://japanese.engadget.com/2011/06/01/android-xoom-2-tracy-xl/"
+        ["comments"]=>
+        string(73) "http://japanese.engadget.com/2011/06/01/android-xoom-2-tracy-xl/#comments"
+        ["description"]=>
+        object(SimpleXMLElement)#60 (0) {
+        }
+        ["category"]=>
+        array(9) {
+          [0]=>
+          string(7) "android"
+          [1]=>
+          string(8) "motorola"
+          [2]=>
+          string(6) "tablet"
+          [3]=>
+          string(8) "tracy xl"
+          [4]=>
+          string(7) "TracyXl"
+          [5]=>
+          string(10) "watchphone"
+          [6]=>
+          string(4) "xoom"
+          [7]=>
+          string(6) "xoom 2"
+          [8]=>
+          string(5) "Xoom2"
+        }
+        ["pubDate"]=>
+        string(29) "Wed, 01 Jun 2011 05:21:00 EST"
+      }
+      [23]=>
+      object(SimpleXMLElement)#42 (7) {
+        ["title"]=>
+        object(SimpleXMLElement)#60 (0) {
+        }
+        ["link"]=>
+        string(59) "http://japanese.engadget.com/2011/06/01/memorex-3ds-3-in-1/"
+        ["guid"]=>
+        string(59) "http://japanese.engadget.com/2011/06/01/memorex-3ds-3-in-1/"
+        ["comments"]=>
+        string(68) "http://japanese.engadget.com/2011/06/01/memorex-3ds-3-in-1/#comments"
+        ["description"]=>
+        object(SimpleXMLElement)#59 (0) {
+        }
+        ["category"]=>
+        array(12) {
+          [0]=>
+          string(7) "e3 2011"
+          [1]=>
+          string(6) "E32011"
+          [2]=>
+          string(4) "game"
+          [3]=>
+          string(7) "memorex"
+          [4]=>
+          string(12) "nintendo 3ds"
+          [5]=>
+          string(11) "nintendo ds"
+          [6]=>
+          string(12) "nintendo dsi"
+          [7]=>
+          string(15) "nintendo dsi ll"
+          [8]=>
+          string(11) "Nintendo3ds"
+          [9]=>
+          string(10) "NintendoDs"
+          [10]=>
+          string(11) "NintendoDsi"
+          [11]=>
+          string(13) "NintendoDsiLl"
+        }
+        ["pubDate"]=>
+        string(29) "Wed, 01 Jun 2011 03:18:00 EST"
+      }
+      [24]=>
+      object(SimpleXMLElement)#43 (7) {
+        ["title"]=>
+        object(SimpleXMLElement)#59 (0) {
+        }
+        ["link"]=>
+        string(58) "http://japanese.engadget.com/2011/06/01/ms-windows-tablet/"
+        ["guid"]=>
+        string(58) "http://japanese.engadget.com/2011/06/01/ms-windows-tablet/"
+        ["comments"]=>
+        string(67) "http://japanese.engadget.com/2011/06/01/ms-windows-tablet/#comments"
+        ["description"]=>
+        object(SimpleXMLElement)#60 (0) {
+        }
+        ["category"]=>
+        array(7) {
+          [0]=>
+          string(4) "acer"
+          [1]=>
+          string(9) "microsoft"
+          [2]=>
+          string(7) "windows"
+          [3]=>
+          string(14) "windows tablet"
+          [4]=>
+          string(13) "WindowsTablet"
+          [5]=>
+          string(17) "wondows tablet os"
+          [6]=>
+          string(15) "WondowsTabletOs"
+        }
+        ["pubDate"]=>
+        string(29) "Wed, 01 Jun 2011 02:35:00 EST"
+      }
+      [25]=>
+      object(SimpleXMLElement)#44 (7) {
+        ["title"]=>
+        object(SimpleXMLElement)#60 (0) {
+        }
+        ["link"]=>
+        string(52) "http://japanese.engadget.com/2011/06/01/sms-7-13-au/"
+        ["guid"]=>
+        string(52) "http://japanese.engadget.com/2011/06/01/sms-7-13-au/"
+        ["comments"]=>
+        string(61) "http://japanese.engadget.com/2011/06/01/sms-7-13-au/#comments"
+        ["description"]=>
+        object(SimpleXMLElement)#59 (0) {
+        }
+        ["category"]=>
+        array(6) {
+          [0]=>
+          string(2) "au"
+          [1]=>
+          string(6) "docomo"
+          [2]=>
+          string(7) "emobile"
+          [3]=>
+          string(4) "kddi"
+          [4]=>
+          string(3) "sms"
+          [5]=>
+          string(8) "softbank"
+        }
+        ["pubDate"]=>
+        string(29) "Wed, 01 Jun 2011 02:30:00 EST"
+      }
+      [26]=>
+      object(SimpleXMLElement)#45 (7) {
+        ["title"]=>
+        object(SimpleXMLElement)#59 (0) {
+        }
+        ["link"]=>
+        string(55) "http://japanese.engadget.com/2011/06/01/gigabyte-s1080/"
+        ["guid"]=>
+        string(55) "http://japanese.engadget.com/2011/06/01/gigabyte-s1080/"
+        ["comments"]=>
+        string(64) "http://japanese.engadget.com/2011/06/01/gigabyte-s1080/#comments"
+        ["description"]=>
+        object(SimpleXMLElement)#60 (0) {
+        }
+        ["category"]=>
+        array(5) {
+          [0]=>
+          string(8) "gigabyte"
+          [1]=>
+          string(14) "gigabyte s1080"
+          [2]=>
+          string(13) "GigabyteS1080"
+          [3]=>
+          string(5) "s1080"
+          [4]=>
+          string(6) "window"
+        }
+        ["pubDate"]=>
+        string(29) "Wed, 01 Jun 2011 00:30:00 EST"
+      }
+      [27]=>
+      object(SimpleXMLElement)#46 (7) {
+        ["title"]=>
+        object(SimpleXMLElement)#60 (0) {
+        }
+        ["link"]=>
+        string(50) "http://japanese.engadget.com/2011/06/01/asus-ux21/"
+        ["guid"]=>
+        string(50) "http://japanese.engadget.com/2011/06/01/asus-ux21/"
+        ["comments"]=>
+        string(59) "http://japanese.engadget.com/2011/06/01/asus-ux21/#comments"
+        ["description"]=>
+        object(SimpleXMLElement)#59 (0) {
+        }
+        ["category"]=>
+        array(5) {
+          [0]=>
+          string(4) "asus"
+          [1]=>
+          string(9) "asus ux21"
+          [2]=>
+          string(8) "AsusUx21"
+          [3]=>
+          string(9) "ultrabook"
+          [4]=>
+          string(4) "ux21"
+        }
+        ["pubDate"]=>
+        string(29) "Wed, 01 Jun 2011 00:05:00 EST"
+      }
+      [28]=>
+      object(SimpleXMLElement)#47 (7) {
+        ["title"]=>
+        object(SimpleXMLElement)#59 (0) {
+        }
+        ["link"]=>
+        string(57) "http://japanese.engadget.com/2011/06/01/windows-7-wt310c/"
+        ["guid"]=>
+        string(57) "http://japanese.engadget.com/2011/06/01/windows-7-wt310c/"
+        ["comments"]=>
+        string(66) "http://japanese.engadget.com/2011/06/01/windows-7-wt310c/#comments"
+        ["description"]=>
+        object(SimpleXMLElement)#60 (0) {
+        }
+        ["category"]=>
+        array(4) {
+          [0]=>
+          string(7) "toshiba"
+          [1]=>
+          string(9) "windows 7"
+          [2]=>
+          string(8) "Windows7"
+          [3]=>
+          string(6) "wt310c"
+        }
+        ["pubDate"]=>
+        string(29) "Wed, 01 Jun 2011 00:00:00 EST"
+      }
+      [29]=>
+      object(SimpleXMLElement)#48 (7) {
+        ["title"]=>
+        object(SimpleXMLElement)#60 (0) {
+        }
+        ["link"]=>
+        string(72) "http://japanese.engadget.com/2011/05/31/ios-iwork-iphone-ipod-touch-i-i/"
+        ["guid"]=>
+        string(72) "http://japanese.engadget.com/2011/05/31/ios-iwork-iphone-ipod-touch-i-i/"
+        ["comments"]=>
+        string(81) "http://japanese.engadget.com/2011/05/31/ios-iwork-iphone-ipod-touch-i-i/#comments"
+        ["description"]=>
+        object(SimpleXMLElement)#59 (0) {
+        }
+        ["category"]=>
+        array(16) {
+          [0]=>
+          string(3) "ios"
+          [1]=>
+          string(4) "ipad"
+          [2]=>
+          string(6) "ipad 2"
+          [3]=>
+          string(5) "Ipad2"
+          [4]=>
+          string(6) "iphone"
+          [5]=>
+          string(10) "iphone 3gs"
+          [6]=>
+          string(8) "iphone 4"
+          [7]=>
+          string(9) "Iphone3gs"
+          [8]=>
+          string(7) "Iphone4"
+          [9]=>
+          string(4) "ipod"
+          [10]=>
+          string(10) "ipod touch"
+          [11]=>
+          string(9) "IpodTouch"
+          [12]=>
+          string(5) "iwork"
+          [13]=>
+          string(7) "keynote"
+          [14]=>
+          string(7) "numbers"
+          [15]=>
+          string(5) "pages"
+        }
+        ["pubDate"]=>
+        string(29) "Tue, 31 May 2011 14:45:00 EST"
+      }
+      [30]=>
+      object(SimpleXMLElement)#49 (7) {
+        ["title"]=>
+        object(SimpleXMLElement)#59 (0) {
+        }
+        ["link"]=>
+        string(72) "http://japanese.engadget.com/2011/05/31/wwdc-icloud-ios-5-mac-os-x-lion/"
+        ["guid"]=>
+        string(72) "http://japanese.engadget.com/2011/05/31/wwdc-icloud-ios-5-mac-os-x-lion/"
+        ["comments"]=>
+        string(81) "http://japanese.engadget.com/2011/05/31/wwdc-icloud-ios-5-mac-os-x-lion/#comments"
+        ["description"]=>
+        object(SimpleXMLElement)#60 (0) {
+        }
+        ["category"]=>
+        array(8) {
+          [0]=>
+          string(5) "apple"
+          [1]=>
+          string(6) "icloud"
+          [2]=>
+          string(5) "ios 5"
+          [3]=>
+          string(4) "Ios5"
+          [4]=>
+          string(6) "iphone"
+          [5]=>
+          string(4) "lion"
+          [6]=>
+          string(13) "mac os x lion"
+          [7]=>
+          string(10) "MacOsXLion"
+        }
+        ["pubDate"]=>
+        string(29) "Tue, 31 May 2011 10:23:00 EST"
+      }
+      [31]=>
+      object(SimpleXMLElement)#50 (7) {
+        ["title"]=>
+        object(SimpleXMLElement)#60 (0) {
+        }
+        ["link"]=>
+        string(47) "http://japanese.engadget.com/2011/05/31/mamemo/"
+        ["guid"]=>
+        string(47) "http://japanese.engadget.com/2011/05/31/mamemo/"
+        ["comments"]=>
+        string(56) "http://japanese.engadget.com/2011/05/31/mamemo/#comments"
+        ["description"]=>
+        object(SimpleXMLElement)#59 (0) {
+        }
+        ["category"]=>
+        array(5) {
+          [0]=>
+          string(8) "king jim"
+          [1]=>
+          string(7) "KingJim"
+          [2]=>
+          string(6) "mamemo"
+          [3]=>
+          string(4) "memo"
+          [4]=>
+          string(10) "stationery"
+        }
+        ["pubDate"]=>
+        string(29) "Tue, 31 May 2011 08:00:00 EST"
+      }
+      [32]=>
+      object(SimpleXMLElement)#51 (7) {
+        ["title"]=>
+        object(SimpleXMLElement)#59 (0) {
+        }
+        ["link"]=>
+        string(58) "http://japanese.engadget.com/2011/05/31/meego-eee-pc-x101/"
+        ["guid"]=>
+        string(58) "http://japanese.engadget.com/2011/05/31/meego-eee-pc-x101/"
+        ["comments"]=>
+        string(67) "http://japanese.engadget.com/2011/05/31/meego-eee-pc-x101/#comments"
+        ["description"]=>
+        object(SimpleXMLElement)#60 (0) {
+        }
+        ["category"]=>
+        array(11) {
+          [0]=>
+          string(4) "asus"
+          [1]=>
+          string(8) "computex"
+          [2]=>
+          string(13) "computex 2011"
+          [3]=>
+          string(12) "Computex2011"
+          [4]=>
+          string(6) "eee pc"
+          [5]=>
+          string(11) "eee pc x101"
+          [6]=>
+          string(12) "eee pc x101h"
+          [7]=>
+          string(5) "EeePc"
+          [8]=>
+          string(9) "EeePcX101"
+          [9]=>
+          string(10) "EeePcX101h"
+          [10]=>
+          string(5) "meego"
+        }
+        ["pubDate"]=>
+        string(29) "Tue, 31 May 2011 06:30:00 EST"
+      }
+      [33]=>
+      object(SimpleXMLElement)#52 (7) {
+        ["title"]=>
+        object(SimpleXMLElement)#60 (0) {
+        }
+        ["link"]=>
+        string(53) "http://japanese.engadget.com/2011/05/31/linux-3-0-rc/"
+        ["guid"]=>
+        string(53) "http://japanese.engadget.com/2011/05/31/linux-3-0-rc/"
+        ["comments"]=>
+        string(62) "http://japanese.engadget.com/2011/05/31/linux-3-0-rc/#comments"
+        ["description"]=>
+        object(SimpleXMLElement)#59 (0) {
+        }
+        ["category"]=>
+        array(3) {
+          [0]=>
+          string(5) "linux"
+          [1]=>
+          string(9) "linux 3.0"
+          [2]=>
+          string(8) "Linux3.0"
+        }
+        ["pubDate"]=>
+        string(29) "Tue, 31 May 2011 06:00:00 EST"
+      }
+      [34]=>
+      object(SimpleXMLElement)#53 (7) {
+        ["title"]=>
+        object(SimpleXMLElement)#59 (0) {
+        }
+        ["link"]=>
+        string(58) "http://japanese.engadget.com/2011/05/31/ultrabook-2012-40/"
+        ["guid"]=>
+        string(58) "http://japanese.engadget.com/2011/05/31/ultrabook-2012-40/"
+        ["comments"]=>
+        string(67) "http://japanese.engadget.com/2011/05/31/ultrabook-2012-40/#comments"
+        ["description"]=>
+        object(SimpleXMLElement)#60 (0) {
+        }
+        ["category"]=>
+        array(6) {
+          [0]=>
+          string(13) "computex 2011"
+          [1]=>
+          string(12) "Computex2011"
+          [2]=>
+          string(5) "intel"
+          [3]=>
+          string(10) "ivy bridge"
+          [4]=>
+          string(9) "IvyBridge"
+          [5]=>
+          string(9) "ultrabook"
+        }
+        ["pubDate"]=>
+        string(29) "Tue, 31 May 2011 04:41:00 EST"
+      }
+      [35]=>
+      object(SimpleXMLElement)#54 (7) {
+        ["title"]=>
+        object(SimpleXMLElement)#60 (0) {
+        }
+        ["link"]=>
+        string(44) "http://japanese.engadget.com/2011/05/31/psn/"
+        ["guid"]=>
+        string(44) "http://japanese.engadget.com/2011/05/31/psn/"
+        ["comments"]=>
+        string(53) "http://japanese.engadget.com/2011/05/31/psn/#comments"
+        ["description"]=>
+        object(SimpleXMLElement)#59 (0) {
+        }
+        ["category"]=>
+        array(7) {
+          [0]=>
+          string(13) "playstation 3"
+          [1]=>
+          string(12) "Playstation3"
+          [2]=>
+          string(3) "psn"
+          [3]=>
+          string(3) "psp"
+          [4]=>
+          string(8) "qriocity"
+          [5]=>
+          string(4) "snei"
+          [6]=>
+          string(4) "sony"
+        }
+        ["pubDate"]=>
+        string(29) "Tue, 31 May 2011 01:24:00 EST"
+      }
+      [36]=>
+      object(SimpleXMLElement)#55 (7) {
+        ["title"]=>
+        object(SimpleXMLElement)#59 (0) {
+        }
+        ["link"]=>
+        string(64) "http://japanese.engadget.com/2011/05/30/hdd-arm-punkthis-x86-os/"
+        ["guid"]=>
+        string(64) "http://japanese.engadget.com/2011/05/30/hdd-arm-punkthis-x86-os/"
+        ["comments"]=>
+        string(73) "http://japanese.engadget.com/2011/05/30/hdd-arm-punkthis-x86-os/#comments"
+        ["description"]=>
+        object(SimpleXMLElement)#60 (0) {
+        }
+        ["category"]=>
+        array(28) {
+          [0]=>
+          string(8) "2.5-inch"
+          [1]=>
+          string(7) "Android"
+          [2]=>
+          string(11) "Android 2.3"
+          [3]=>
+          string(10) "Android2.3"
+          [4]=>
+          string(3) "ARM"
+          [5]=>
+          string(8) "Computex"
+          [6]=>
+          string(13) "Computex 2011"
+          [7]=>
+          string(12) "Computex2011"
+          [8]=>
+          string(9) "Cortex A8"
+          [9]=>
+          string(8) "CortexA8"
+          [10]=>
+          string(4) "CUPP"
+          [11]=>
+          string(11) "Gingerbread"
+          [12]=>
+          string(6) "Google"
+          [13]=>
+          string(8) "hands-on"
+          [14]=>
+          string(10) "hard drive"
+          [15]=>
+          string(9) "HardDrive"
+          [16]=>
+          string(3) "HDD"
+          [17]=>
+          string(9) "mini PCIe"
+          [18]=>
+          string(8) "MiniPcie"
+          [19]=>
+          string(7) "Netbook"
+          [20]=>
+          string(9) "OMAP 3730"
+          [21]=>
+          string(8) "Omap3730"
+          [22]=>
+          string(9) "Punk This"
+          [23]=>
+          string(8) "PunkThis"
+          [24]=>
+          string(3) "SSD"
+          [25]=>
+          string(5) "video"
+          [26]=>
+          string(9) "Windows 7"
+          [27]=>
+          string(8) "Windows7"
+        }
+        ["pubDate"]=>
+        string(29) "Mon, 30 May 2011 16:00:00 EST"
+      }
+      [37]=>
+      object(SimpleXMLElement)#56 (7) {
+        ["title"]=>
+        object(SimpleXMLElement)#60 (0) {
+        }
+        ["link"]=>
+        string(68) "http://japanese.engadget.com/2011/05/30/eee-pad-memo-3d-7-ips-3d-bt/"
+        ["guid"]=>
+        string(68) "http://japanese.engadget.com/2011/05/30/eee-pad-memo-3d-7-ips-3d-bt/"
+        ["comments"]=>
+        string(77) "http://japanese.engadget.com/2011/05/30/eee-pad-memo-3d-7-ips-3d-bt/#comments"
+        ["description"]=>
+        object(SimpleXMLElement)#59 (0) {
+        }
+        ["category"]=>
+        array(14) {
+          [0]=>
+          string(6) "7 inch"
+          [1]=>
+          string(5) "7Inch"
+          [2]=>
+          string(7) "android"
+          [3]=>
+          string(4) "asus"
+          [4]=>
+          string(13) "computex 2011"
+          [5]=>
+          string(12) "Computex2011"
+          [6]=>
+          string(7) "eee pad"
+          [7]=>
+          string(12) "eee pad memo"
+          [8]=>
+          string(15) "eee pad memo 3d"
+          [9]=>
+          string(6) "EeePad"
+          [10]=>
+          string(10) "EeePadMemo"
+          [11]=>
+          string(12) "EeePadMemo3d"
+          [12]=>
+          string(9) "honeycomb"
+          [13]=>
+          string(6) "tablet"
+        }
+        ["pubDate"]=>
+        string(29) "Mon, 30 May 2011 05:58:00 EST"
+      }
+      [38]=>
+      object(SimpleXMLElement)#57 (7) {
+        ["title"]=>
+        object(SimpleXMLElement)#59 (0) {
+        }
+        ["link"]=>
+        string(53) "http://japanese.engadget.com/2011/05/30/asus-padfone/"
+        ["guid"]=>
+        string(53) "http://japanese.engadget.com/2011/05/30/asus-padfone/"
+        ["comments"]=>
+        string(62) "http://japanese.engadget.com/2011/05/30/asus-padfone/#comments"
+        ["description"]=>
+        object(SimpleXMLElement)#60 (0) {
+        }
+        ["category"]=>
+        array(2) {
+          [0]=>
+          string(4) "asus"
+          [1]=>
+          string(7) "padfone"
+        }
+        ["pubDate"]=>
+        string(29) "Mon, 30 May 2011 05:01:00 EST"
+      }
+      [39]=>
+      object(SimpleXMLElement)#58 (7) {
+        ["title"]=>
+        object(SimpleXMLElement)#60 (0) {
+        }
+        ["link"]=>
+        string(66) "http://japanese.engadget.com/2011/05/30/nvidia-tegra-kal-el-4-gpu/"
+        ["guid"]=>
+        string(66) "http://japanese.engadget.com/2011/05/30/nvidia-tegra-kal-el-4-gpu/"
+        ["comments"]=>
+        string(75) "http://japanese.engadget.com/2011/05/30/nvidia-tegra-kal-el-4-gpu/#comments"
+        ["description"]=>
+        object(SimpleXMLElement)#59 (0) {
+        }
+        ["category"]=>
+        array(42) {
+          [0]=>
+          string(8) "advanced"
+          [1]=>
+          string(7) "android"
+          [2]=>
+          string(3) "arm"
+          [3]=>
+          string(4) "ball"
+          [4]=>
+          string(5) "cloth"
+          [5]=>
+          string(8) "computex"
+          [6]=>
+          string(13) "computex 2011"
+          [7]=>
+          string(12) "Computex2011"
+          [8]=>
+          string(4) "demo"
+          [9]=>
+          string(13) "demonstration"
+          [10]=>
+          string(7) "dynamic"
+          [11]=>
+          string(16) "dynamic lighting"
+          [12]=>
+          string(15) "DynamicLighting"
+          [13]=>
+          string(3) "gfx"
+          [14]=>
+          string(4) "glow"
+          [15]=>
+          string(9) "glow ball"
+          [16]=>
+          string(8) "GlowBall"
+          [17]=>
+          string(3) "gpu"
+          [18]=>
+          string(8) "graphics"
+          [19]=>
+          string(8) "hardware"
+          [20]=>
+          string(9) "honeycomb"
+          [21]=>
+          string(6) "kal-el"
+          [22]=>
+          string(8) "lighting"
+          [23]=>
+          string(15) "mobile graphics"
+          [24]=>
+          string(14) "MobileGraphics"
+          [25]=>
+          string(6) "nvidia"
+          [26]=>
+          string(12) "nvidia tegra"
+          [27]=>
+          string(11) "NvidiaTegra"
+          [28]=>
+          string(7) "physics"
+          [29]=>
+          string(14) "pre-production"
+          [30]=>
+          string(9) "quad core"
+          [31]=>
+          string(9) "quad-core"
+          [32]=>
+          string(8) "QuadCore"
+          [33]=>
+          string(11) "smartphones"
+          [34]=>
+          string(14) "system-on-chip"
+          [35]=>
+          string(7) "tablets"
+          [36]=>
+          string(5) "tegra"
+          [37]=>
+          string(7) "tegra 3"
+          [38]=>
+          string(10) "tegra zone"
+          [39]=>
+          string(6) "Tegra3"
+          [40]=>
+          string(9) "TegraZone"
+          [41]=>
+          string(5) "video"
+        }
+        ["pubDate"]=>
+        string(29) "Mon, 30 May 2011 03:00:00 EST"
+      }
+    }
+  }
+}
